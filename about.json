@@ -2,6 +2,7 @@
   "name": "German Formal Overrides",
   "about_url": "https://github.com/DorinaHarre/discourse-formal-de",
   "license_url": null,
+  "component": true,  
   "theme_version": "0.1",
   "minimum_discourse_version": "2.7.0"
 }
