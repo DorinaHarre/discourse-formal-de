@@ -361,7 +361,7 @@ de:
           oder auf der Negativliste ist.
       unrecognized_error: Unbekannter Fehler
     secure_uploads_placeholder: 'Redigiert: Auf dieser Website sind sichere Uploads
-      aktiviert, besuche das Thema oder klicke auf „Medien anzeigen“, um die angehängten
+      aktiviert, besuche das Thema oder klicken Sie auf „Medien anzeigen“, um die angehängten
       Uploads zu sehen.'
     view_redacted_media: Medien anzeigen
   errors:
@@ -2491,7 +2491,7 @@ de:
       einer größeren Breite werden verkleinert und mit einem Lightbox versehen.
     max_image_height: Maximale Höhe der Vorschaubilder in einem Beitrag. Bilder mit
       einer größeren Höhe werden verkleinert und mit einem Lightbox versehen.
-    responsive_post_image_sizes: Ändere die Größe der Lightbox-Vorschaubilder, um
+    responsive_post_image_sizes: Ändern Sie die Größe der Lightbox-Vorschaubilder, um
       High-DPI-Bildschirme mit den folgenden Pixelverhältnissen zu ermöglichen. Entfernen
       Sie alle Werte, um responsive Bilder zu deaktivieren.
     fixed_category_positions: Wenn diese Option aktiviert ist, können Kategorien in
@@ -3559,7 +3559,7 @@ de:
       annehmen, wenn bereits (n) Benutzerkonten mit Vertrauensstufe 0 zugeordnet sind
       (und keines davon ein Team-Mitglied ist oder Vertrauensstufe 2 oder höher hat).
       0 deaktiviert die Begrenzung.
-    min_ban_entries_for_roll_up: Wenn Sie auf die Schaltfläche „Zusammenfassen“ klickst,
+    min_ban_entries_for_roll_up: Wenn Sie auf die Schaltfläche „Zusammenfassen“ klicken,
       wird ein neuer Subnetz-Block-Eintrag erstellt, wenn es mindestens (N) Einträge
       gibt.
     max_age_unmatched_emails: Gefilterte E-Mail-Adressen nach (N) Tagen ohne Treffer
@@ -4837,7 +4837,7 @@ de:
     not_enabled_second_factor_method: Die ausgewählte Methode zur Zwei-Faktor-Authentifizierung
       ist für Sie nicht aktiviert.
     security_key_description: Wenn Sie Ihren physischen Sicherheitsschlüssel vorbereitet
-      haben, klicke unten auf die Schaltfläche „Mit Sicherheitsschlüssel authentifizieren“.
+      haben, klicken Sie unten auf die Schaltfläche „Mit Sicherheitsschlüssel authentifizieren“.
     security_key_alternative: Versuche es anderweitig
     security_key_authenticate: Mit Sicherheitsschlüssel authentifizieren
     security_key_not_allowed_error: Der Authentifizierungsprozess für den Sicherheitsschlüssel
@@ -5036,7 +5036,7 @@ de:
     text_body_template: 'Jemand (womöglich Sie?) hat angefordert, nicht mehr länger
       E-Mail-Updates von %{site_domain_name} unter dieser Adresse zu erhalten.
 
-      Wenn Sie dies bestätigen möchten, klicke bitte auf diesen Link:
+      Wenn Sie dies bestätigen möchten, klicken Sie bitte auf diesen Link:
 
 
       %{confirm_unsubscribe_link}
@@ -5067,7 +5067,7 @@ de:
       > %{site_title} -- %{site_description}
 
 
-      Wenn Sie das interessiert, klicke auf den folgenden Link:
+      Wenn Sie das interessiert, klicken Sie auf den folgenden Link:
 
 
       %{invite_link}
@@ -5099,7 +5099,7 @@ de:
       > %{user_custom_message}
 
 
-      Wenn Sie das interessiert, klicke auf den folgenden Link:
+      Wenn Sie das interessiert, klicken Sie auf den folgenden Link:
 
 
       %{invite_link}
@@ -5119,7 +5119,7 @@ de:
       > %{site_description}
 
 
-      Wenn Sie das interessiert, klicke auf den folgenden Link:
+      Wenn Sie das interessiert, klicken Sie auf den folgenden Link:
 
 
       %{invite_link}
@@ -5145,7 +5145,7 @@ de:
       > %{user_custom_message}
 
 
-      Wenn Sie das interessiert, klicke auf den folgenden Link:
+      Wenn Sie das interessiert, klicken Sie auf den folgenden Link:
 
 
       %{invite_link}
@@ -5623,7 +5623,7 @@ de:
         haben -- willkommen!
 
 
-        - Wir haben dieses neue Benutzerkonto **%{username}** für Sie erstellt. Ändere
+        - Wir haben dieses neue Benutzerkonto **%{username}** für Sie erstellt. Ändern Sie
         Ihren Namen oder Ihr Passwort, indem Sie [Ihr Benutzerprofil][prefs] besuchst.
 
 
@@ -6265,7 +6265,7 @@ de:
 
 
         Bitte [überprüfe die Meldungen](%{base_url}/review). Wenn %{username} fälschlich
-        stummgeschaltet wurde, so klicke die „Stummschaltung aufheben“-Schaltfläche
+        stummgeschaltet wurde, so klicken Sie die „Stummschaltung aufheben“-Schaltfläche
         auf der [Administrationsseite dieses Benutzers](%{user_url}).
 
 
@@ -6353,17 +6353,17 @@ de:
         derzeit auf Überprüfung. [Akzeptiere sie oder lehne sie hier ab](%{base_url}/review?type=ReviewableQueuedPost).
 
         '
-  unsubscribe_link: 'Um diese E-Mails abzubestellen, [klicke hier](%{unsubscribe_url}).
+  unsubscribe_link: 'Um diese E-Mails abzubestellen, [klicken Sie hier](%{unsubscribe_url}).
 
     '
-  unsubscribe_link_and_mail: 'Um diese E-Mails abzubestellen, [klicke hier](%{unsubscribe_url}).
+  unsubscribe_link_and_mail: 'Um diese E-Mails abzubestellen, [klicken Sie hier](%{unsubscribe_url}).
 
     '
   unsubscribe_mailing_list: 'Sie erhalten diese E-Mails, weil Sie den Mailinglisten-Modus
     aktiviert haben.
 
 
-    Um diese E-Mails abzubestellen, [klicke hier](%{unsubscribe_url}).
+    Um diese E-Mails abzubestellen, [klicken Sie hier](%{unsubscribe_url}).
 
     '
   subject_re: 'Re: '
@@ -6418,7 +6418,7 @@ de:
       > %{site_title} -- %{site_description}
 
 
-      Um der Unterhaltung beizutreten, klicke auf den Link unten:
+      Um der Unterhaltung beizutreten, klicken Sie auf den Link unten:
 
 
       %{topic_url}
@@ -6440,7 +6440,7 @@ de:
       > %{site_title} -- %{site_description}
 
 
-      Um der Unterhaltung beizutreten, klicke auf den Link unten:
+      Um der Unterhaltung beizutreten, klicken Sie auf den Link unten:
 
 
       %{topic_url}
@@ -6462,7 +6462,7 @@ de:
       > %{site_title} -- %{site_description}
 
 
-      Um der Diskussion beizutreten, klicke auf den Link unten:
+      Um der Diskussion beizutreten, klicken Sie auf den Link unten:
 
 
       %{topic_url}
@@ -6824,10 +6824,10 @@ de:
       more_new: Neu für Sie
       subject_template: '[%{email_prefix}] Zusammenfassung'
       unsubscribe: Diese Zusammenfassung wird von %{site_link} versendet, wenn wir
-        Sie einige Zeit lang nicht gesehen haben. Ändere %{email_preferences_link}
+        Sie einige Zeit lang nicht gesehen haben. Ändern Sie %{email_preferences_link}
         oder %{unsubscribe_link} zum Abbestellen.
       your_email_settings: Ihre E-Mail-Einstellungen
-      click_here: klicke hier
+      click_here: klicken Sie hier
       from: '%{site_name}'
       preheader: Eine kurze Zusammenfassung seit %{since}
     forgot_password:
@@ -6912,7 +6912,7 @@ de:
       title: Bestätigung der neuen E-Mail-Adresse
       subject_template: '[%{email_prefix}] Bestätigen Sie Ihre neue E-Mail-Adresse'
       text_body_template: 'Bestätigen Sie Ihre neue E-Mail-Adresse für %{site_name},
-        indem Sie auf den folgenden Link klickst:
+        indem Sie auf den folgenden Link klicken:
 
 
         %{base_url}/u/confirm-new-email/%{email_token}
@@ -6926,7 +6926,7 @@ de:
       title: Neue E-Mail-Adresse bestätigen
       subject_template: '[%{email_prefix}] Bestätigen Sie Ihre neue E-Mail-Adresse'
       text_body_template: 'Bestätigen Sie Ihre neue E-Mail-Adresse für %{site_name},
-        indem Sie auf den folgenden Link klickst:
+        indem Sie auf den folgenden Link klicken:
 
 
         %{base_url}/u/confirm-new-email/%{email_token}
@@ -6940,13 +6940,13 @@ de:
       title: Bestätigung der alten E-Mail-Adresse
       subject_template: '[%{email_prefix}] Bestätigen Sie Ihre aktuelle E-Mail-Adresse'
       text_body_template: 'Bevor wir Ihre E-Mail-Adresse ändern können, benötigen
-        wir Ihre Bestätigung, dass Sie das aktuelle E-Mail-Konto kontrollierst. Sobald
+        wir Ihre Bestätigung, dass Sie das aktuelle E-Mail-Konto kontrollieren. Sobald
         Sie diesen Schritt erledigt haben, schicken wir Ihnen eine Anfrage, die neue
         E-Mail-Adresse zu bestätigen.
 
 
         Bestätigen Sie Ihre aktuelle E-Mail-Adresse für %{site_name}, indem Sie auf
-        den folgenden Link klickst:
+        den folgenden Link klicken:
 
 
         %{base_url}/u/confirm-old-email/%{email_token}
@@ -6956,13 +6956,13 @@ de:
       title: Bestätigung der alten E-Mail-Adresse (hinzufügen)
       subject_template: '[%{email_prefix}] Bestätigen Sie Ihre aktuelle E-Mail-Adresse'
       text_body_template: 'Bevor wir eine neue E-Mail-Adresse hinzufügen können, benötigen
-        wir Ihre Bestätigung, dass Sie das aktuelle E-Mail-Konto kontrollierst. Sobald
+        wir Ihre Bestätigung, dass Sie das aktuelle E-Mail-Konto kontrollieren. Sobald
         Sie diesen Schritt erledigt haben, schicken wir Ihnen eine Anfrage, die neue
         E-Mail-Adresse zu bestätigen.
 
 
         Bestätigen Sie Ihre aktuelle E-Mail-Adresse für %{site_name}, indem Sie auf
-        den folgenden Link klickst:
+        den folgenden Link klicken:
 
 
         %{base_url}/u/confirm-old-email/%{email_token}
@@ -7072,11 +7072,11 @@ de:
       title: Warnung über neue Anmeldung
       subject_template: '[%{site_name}] Neue Anmeldung von %{location}'
       text_body_template: "Hallo,\n\nwir haben festgestellt, dass Sie Sie von einem\
-        \ anderen Gerät oder Ort als üblich angemeldet haben. Warst Sie das?\n\n -\
+        \ anderen Gerät oder Ort als üblich angemeldet haben. Waren Sie das?\n\n -\
         \ Ort: %{location} (%{client_ip})\n - Browser: %{browser}\n - Gerät: %{device}\
         \ – %{os}\n\nWenn Sie das waren – hervorragend! Sie müssen nichts weiter tun.\n\
         \nWenn Sie das nicht gewesen sind, [überprüfe bitte Ihre aktiven Sitzungen](%{base_url}/my/preferences/security)\
-        \ und erwäge, Ihr Passwort zu ändern.\n"
+        \ und erwägen Sie, Ihr Passwort zu ändern.\n"
     post_approved:
       title: Ihr Beitrag wurde genehmigt
       subject_template: '[%{site_name}] Ihr Beitrag wurde genehmigt'
@@ -7436,7 +7436,7 @@ de:
       '
   tos_topic:
     title: Nutzungsbedingungen
-    body: '<h2 id="heading--change-me"><a href="#heading--change-me">Ändere mich</a></h2>
+    body: '<h2 id="heading--change-me"><a href="#heading--change-me">Ändern Sie mich</a></h2>
 
 
       Unten finden Sie eine Beispielvorlage für eine Datenschutzerklärung, die Sie
@@ -8234,7 +8234,7 @@ de:
       name: Erstes „Gefällt mir“
       description: Hat einen Beitrag mit „Gefällt mir“ markiert
       long_description: 'Dieses Abzeichen wird verliehen, wenn Sie das erste Mal auf
-        die :heart:-Schaltfläche unter einem Beitrag klickst. Beiträge mit „Gefällt
+        die :heart:-Schaltfläche unter einem Beitrag klicken. Beiträge mit „Gefällt
         mir“ zu markieren ist eine tolle Art, um Mitglieder wissen zu lassen, dass
         ihr Beitrag interessant, nützlich, cool oder witzig war. Teile die Liebe!
 

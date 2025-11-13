@@ -1963,7 +1963,7 @@ de:
         edit_description: Authentifikator-Name
         enable_security_key_description: 'Wenn Sie Ihren <a href="https://www.google.com/search?q=hardware+security+key"
           target="_blank">Hardware-Sicherheitsschlüssel</a> oder Ihr kompatibles Mobilgerät
-          vorbereitet haben, klicke unten auf „Registrieren“.
+          vorbereitet haben, klicken Sie unten auf „Registrieren“.
 
           '
         totp:
@@ -2052,10 +2052,10 @@ de:
           confirm_success: Wir haben eine E-Mail an Ihre neue E-Mail-Adresse gesendet,
             um die Änderung zu bestätigen!
       change_avatar:
-        title: Ändere Ihr Profilbild
+        title: Ändern Sie Ihr Profilbild
         gravatar: <a href='//%{gravatarBaseUrl}%{gravatarLoginUrl}' target='_blank'>%{gravatarName}</a>,
           basierend auf
-        gravatar_title: Ändere Ihren Avatar auf der Website von %{gravatarName}
+        gravatar_title: Ändern Sie Ihren Avatar auf der Website von %{gravatarName}
         gravatar_failed: '%{gravatarName} zu dieser Email-Adresse nicht gefunden.'
         refresh_gravatar_title: Aktualisiere Ihren %{gravatarName}
         letter_based: ein vom System zugeordnetes Profilbild
@@ -2799,7 +2799,7 @@ de:
         ein:'
       second_factor: Anmeldung mit einer Authentifizierungs-App
       security_key_description: Wenn Sie Ihren physischen Sicherheitsschlüssel oder
-        Ihr kompatibles Mobilgerät vorbereitet haben, klicke unten auf die Schaltfläche
+        Ihr kompatibles Mobilgerät vorbereitet haben, klicken Sie unten auf die Schaltfläche
         „Mit Sicherheitsschlüssel authentifizieren“.
       security_key_alternative: Versuche es anderweitig
       security_key_authenticate: Mit Sicherheitsschlüssel authentifizieren
@@ -3755,7 +3755,7 @@ de:
         description: Themen als ungelesen markieren
       update_notifications:
         name: Benachrichtigungsstufe aktualisieren
-        description: Ändere die Benachrichtigungsstufe auf „Beobachten“, „Verfolgen“,
+        description: Ändern Sie die Benachrichtigungsstufe auf „Beobachten“, „Verfolgen“,
           „Normal“ oder „Stumm“
     topic:
       filter_to:
@@ -3954,7 +3954,7 @@ de:
         jump_prompt_to_date: zu Datum
         jump_prompt_or: oder
       notifications:
-        title: ändere, wie häufig Sie zu diesem Thema benachrichtigt werden
+        title: ändern Sie, wie häufig Sie zu diesem Thema benachrichtigt werden
         reasons:
           mailing_list_mode: Sie haben den Mailinglisten-Modus aktiviert, daher werden
             Sie über Antworten zu diesem Thema per E-Mail benachrichtigt
@@ -4582,7 +4582,7 @@ de:
               Erinnerungen für dieses Lesezeichen.
           edit_bookmark:
             name: Lesezeichen bearbeiten
-            description: Ändere den Namen des Lesezeichens oder den Erinnerungszeitpunkt.
+            description: Ändern Sie den Namen des Lesezeichens oder den Erinnerungszeitpunkt.
           clear_bookmark_reminder:
             name: Erinnerung löschen
             description: Datum und Uhrzeit der Erinnerung löschen
@@ -4711,7 +4711,7 @@ de:
         und die Beschreibung können unter <a href="%{customizeLink}">Anpassen/Textinhalte</a>
         geändert werden.
       pending_permission_change_alert: Sie haben %{group} nicht zu dieser Kategorie
-        hinzugefügt; klicke diese Schaltfläche, um sie zuzufügen.
+        hinzugefügt; klicken Sie diese Schaltfläche, um sie zuzufügen.
       images: Bilder
       email_in: 'Benutzerdefinierte Adresse für eingehende E-Mails:'
       email_in_tooltip: Sie können mehrere E-Mail-Adressen mit dem Zeichen | trennen.
@@ -5489,7 +5489,7 @@ de:
       no_replies_title: Sie haben noch keine Themen beantwortet
       no_replies_title_others: '%{username} hat noch auf keine Themen geantwortet'
       no_replies_body: Wenn Sie eine interessante Unterhaltung <a href='%{searchUrl}'>entdeckst</a>,
-        zu der Sie etwas beitragen möchten, klicke auf die Schaltfläche <kbd>Antworten</kbd>
+        zu der Sie etwas beitragen möchten, klicken Sie auf die Schaltfläche <kbd>Antworten</kbd>
         direkt unter einem Beitrag, um auf diesen Beitrag zu antworten. Wenn Sie lieber
         auf das allgemeine Thema als auf einen einzelnen Beitrag oder eine Person
         antworten möchten, finden Sie die Schaltfläche <kbd>Antworten</kbd> ganz unten
@@ -6407,7 +6407,7 @@ de:
         add: Gehe zu den Theme-spezifischen Website-Einstellungen
         help: Das Theme, das Sie derzeit verwenden, ist <a href='%{basePath}/admin/customize/themes/%{currentThemeId}'>%{currentTheme}</a>.
           Gehe auf die <a href='%{basePath}/admin/customize/themes/%{currentThemeId}'>Theme-Konfigurationsseite</a>,
-          um die Theme-spezifischen Website-Einstellungen zu ändern, oder klicke auf
+          um die Theme-spezifischen Website-Einstellungen zu ändern, oder klicken Sie auf
           ein verlinktes Theme in der Tabelle unten, um seine Einstellungen zu bearbeiten.
       search:
         modal_title: Durchsuchen Sie alles im Adminbereich
